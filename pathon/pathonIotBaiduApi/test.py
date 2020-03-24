@@ -16,10 +16,9 @@ import urllib.parse
 import time
 
 # 1.AK/SK、host、method、URL绝对路径、querystring
-# c02376d42a05434c9827f0c5706dc970
-# 08ead63a52f84adc806d51c2e6174520
-AK = "c02376d42a05434c9827f0c5706dc970"
-SK = "08ead63a52f84adc806d51c2e6174520"
+
+AK = "c02376d42a05434c98*************"
+SK = "08ead63a52f84ad****************"
 host = "iotdm.gz.baidubce.com"
 method = "GET"
 query = ""
